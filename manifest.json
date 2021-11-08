@@ -3,14 +3,14 @@
     "name": "Pinboard+",
     "version": "1.2.0",
     "description": "A better firefox extension for Pinboard (http://pinboard.in).",
-    "homepage_url": "https://github.com/lostsnow/pinboard-firefox",
+    "homepage_url": "https://github.com/prplecake/pinboard-firefox",
     "icons": {
         "48": "img/appicon-48.png",
         "96": "img/appicon-96.png"
     },
     "applications": {
         "gecko": {
-            "id": "pinboard-plus@lsproc.com",
+            "id": "pinboard-plus@jrgnsn.net",
             "strict_min_version": "57.0"
         }
     },
